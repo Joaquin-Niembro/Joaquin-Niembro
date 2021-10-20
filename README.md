@@ -1,7 +1,10 @@
 ### Hi there 👋, my name is Joaquin!
 #### I am a Javascript lover💛! currently focused on React js and Node js.
+![Joaquin Niembro](https://user-images.githubusercontent.com/67522982/138140613-84ab48b0-6e8f-4005-ab93-d61c92aa8cb7.png)
 I am 22 years old and i have been into coding since i was 14!🚀
 I really enjoy learning new things and curiosity is my driven passion, oooh and i also do olympic weigthlifiting!🏋️‍♂️
+
+
 
 Skills: NODE JS/ REACT / JS / TDD / REDUX / ELIXIR
 
