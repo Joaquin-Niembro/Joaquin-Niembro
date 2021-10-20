@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joaquin
 #### I am a Javacsript lover! currently focused on React js and Node js.
-![I am a Javacsript lover! currently focused on React js and Node js.](https://joaquinNiembro.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Javacsript lover! currently focused on React js and Node js.]
 
 I am 22 years old and i have been into coding since i was 14!
 I really enjoy learning new things and curiosity is my driven passion, oooh and i also do olympic weigthlifiting!
