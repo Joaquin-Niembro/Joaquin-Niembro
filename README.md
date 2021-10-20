@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Joaquin
 #### I am a Javacsript lover! currently focused on React js and Node js.
-https://avatars.githubusercontent.com/u/82471834?v=4
 I am 22 years old and i have been into coding since i was 14!
 I really enjoy learning new things and curiosity is my driven passion, oooh and i also do olympic weigthlifiting!
 
@@ -13,7 +12,8 @@ Skills: NODE JS/ REACT / JS / TDD / REDUX / ELIXIR
 - ⚡ Fun fact: I used to be very into Rubik`s cubes when i was in elemtary school and my all time record in 3x3 was 12 seconds🥳! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Joaquin-Niembro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://mx.linkedin.com/in/joaquin-niembro-bueno-21b693204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@BuenoNiembro)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Joaquin-Niembro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://mx.linkedin.com/in/joaquin-niembro-bueno-21b693204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@BuenoNiembro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://joaquinniembro.netlify.app/)  
+
 
 
 
